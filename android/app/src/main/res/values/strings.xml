@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GestureControl</string>
+    <string name="notification_channel_name">手势识别</string>
+    <string name="notification_title">手势控制已就绪</string>
+    <string name="notification_text">在当前应用可用手势操作</string>
+    <string name="accessibility_label">手势控制</string>
+    <string name="accessibility_description">识别前置摄像头中的手势，并在已启用的应用中执行滚动、返回和回主页操作。</string>
+</resources>
